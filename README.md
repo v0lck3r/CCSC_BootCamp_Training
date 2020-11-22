@@ -21,11 +21,9 @@ Made with :heart: by **v0lck3r** & **da3ss**.
 ***Disclaimer***: <br/>
 Please use the material in this repo **wisely**, we're not responsible for any **bad** implementations of it! Cheers!!
 
-## Build Your Own Path :<a name="build" />
-
-
-
-"The Quieter You Become, The More You Are Able To Hear" – Rumi 
+## Build Your Own Path :<a name="build" /> <br/>
+We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wanna **shoot for the :star: :star:**, you need to practice and seek for more **documentation** yourself. <br/>
+**Google is your friend**, that's the spirit of a true **Cyber Warrior** !!
 
 ## Linux For CTFs :<a name="linux" />
 #### [Day 0](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Linux_Intro) `Linux_Intro slides`:
