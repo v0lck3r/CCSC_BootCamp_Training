@@ -18,7 +18,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 This is our **CCSC** git repository in which we'll post all the **Boot Camp** material (Presentations, Tools, Scripts, ...). <br />
 Made with :heart: by **v0lck3r** & **da3ss**.
 
-***Disclaimer***: 
+***Disclaimer***: <br/>
 Please use the material in this repo **wisely**, we're not responsible for any **bad** implementations of it! Cheers!!
 
 ## Build Your Own Path :<a name="build" />
