@@ -85,5 +85,5 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 
 
-Credits: @CCSC
-***OUSSAMA RAHALI*** & ***OMAR AOUAJ***
+Credits: 
+***OUSSAMA RAHALI*** & ***OMAR AOUAJ*** @CCSC
