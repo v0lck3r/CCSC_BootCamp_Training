@@ -28,7 +28,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 - The useful commands during CTFs
 
 ## Cryptography :<a name="crypto" />
-#### [Day 1]() `slides`:
+#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Crypto/Day1) `Crypto Day1 slides`:
 
 - Cryptography :
     - notions
@@ -68,13 +68,22 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 ## Practice & Resources :<a name="practice" />
 
-### General
-
-
-### Web Exploitation 
-### Reverse Engineering
 ### Cryptography
-### Binary Exploitation
+-   https://cryptohack.org/
+
 
 ## Tools <a name="tools" />
 
+### Cryptography
+- https://www.dcode.fr/
+- https://www.dcode.fr/frequency-analysis
+- https://cryptii.com/
+- https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+- https://quipqiup.com/
+- https://www.boxentriq.com/code-breaking/cipher-identifier
+
+
+
+
+Credits: @CCSC
+***OUSSAMA RAHALI*** & ***OMAR AOUAJ***
