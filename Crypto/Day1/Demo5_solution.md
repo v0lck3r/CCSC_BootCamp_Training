@@ -1,11 +1,5 @@
 ## Tasks :
 
-### Task 1 :
-<code>
-#!/bin/python
-
-cipher = "PPFP obbgpnzc genvavat ebg 13 qrzb"
-</code>
 
 ### Task 2 :
 
