@@ -15,11 +15,11 @@ CIT Cyber Security Cell Bootcamp Training modules
 10. [Tools](#tools)
 
 ## General :<a name="general" />
-This is our CCSC git repository in which we'll post all the Boot Camp material (Presentations, Tools, Scripts, ...).
-Made with <3 by V0lck3r & da3ss.
+This is our **CCSC** git repository in which we'll post all the **Boot Camp** material (Presentations, Tools, Scripts, ...). <br />
+Made with :heart: by **v0lck3r** & **da3ss**.
 
 ***Disclaimer***: 
-Please use the material in this repo wisely, we're not responsible for any **bad** implementations of it! Cheers!!
+Please use the material in this repo **wisely**, we're not responsible for any **bad** implementations of it! Cheers!!
 
 ## Build Your Own Path :<a name="build" />
 
