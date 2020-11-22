@@ -23,11 +23,23 @@ CIT Cyber Security Cell Bootcamp Training modules
 ## Build Your Own Path :<a name="build" />
 
 ## Linux For CTFs :<a name="linux" />
+#### [Day 0]() `slides`:
+
+- The useful commands during CTFs
 
 ## Cryptography :<a name="crypto" />
-#### [Day 1]():
-- What is Cryptography:
-- 
+#### [Day 1]() `slides`:
+
+- Cryptography :
+    - notions
+- General :
+    - Encoding
+      - ASCII
+      - HEX
+      - Base64 / 32
+    - Caesar cipher / ROT13
+    - XOR
+
 #### [Day 2]():
 
 ## Forensics & OSINT :<a name="osint" />
@@ -43,7 +55,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 ## Reverse Engineering :<a name="rev" />
 
-#### [Day 1]() `slides`:
+#### [Day 1]() :
 #### [Day 2]():
 
 
