@@ -43,7 +43,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 ## Reverse Engineering :<a name="rev" />
 
-#### [Day 1]() `rev/day_1/slides`:
+#### [Day 1]() `slides`:
 #### [Day 2]():
 
 
