@@ -42,28 +42,21 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 #### [Day 2]():
 
+**SOON ...**
+
 ## Forensics & OSINT :<a name="osint" />
-#### [Day 1]():
-#### [Day 2]():
-
-
+#### [Day 1]:
+#### [Day 2]:
 ## Web Exploitation :<a name="web" />
-
-#### [Day 1]():
-#### [Day 2]():
-#### [Day 3]():
+#### [Day 1]:
+#### [Day 2]:
 
 ## Reverse Engineering :<a name="rev" />
-
-#### [Day 1]() :
-#### [Day 2]():
-
-
-
+#### [Day 1]:
+#### [Day 2]:
 ## Binary Exploitation :<a name="pwn" />
-
-#### [Day 1]():
-#### [Day 2]():
+#### [Day 1]:
+#### [Day 2]:
 
 
 ## Practice & Resources :<a name="practice" />
@@ -85,5 +78,5 @@ CIT Cyber Security Cell Bootcamp Training modules
 
 
 
-Credits: 
+📫 Credits: 
 ***OUSSAMA RAHALI*** & ***OMAR AOUAJ*** @CCSC
