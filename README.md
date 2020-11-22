@@ -23,6 +23,10 @@ Please use the material in this repo **wisely**, we're not responsible for any *
 
 ## Build Your Own Path :<a name="build" />
 
+
+
+"The Quieter You Become, The More You Are Able To Hear" – Rumi 
+
 ## Linux For CTFs :<a name="linux" />
 #### [Day 0](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Linux_Intro) `Linux_Intro slides`:
 
