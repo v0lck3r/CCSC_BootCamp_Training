@@ -23,7 +23,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 ## Build Your Own Path :<a name="build" />
 
 ## Linux For CTFs :<a name="linux" />
-#### [Day 0]() `slides`:
+#### [Day 0](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Linux_Intro) `Linux_Intro slides`:
 
 - The useful commands during CTFs
 
