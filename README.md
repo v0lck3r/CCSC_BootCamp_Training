@@ -44,13 +44,33 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
     - Caesar cipher / ROT13
     - XOR
 
-#### [Day 2]():
+#### [Day 2](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Crypto/Day2)`Crypto Day2 slides`:
 
-**SOON ...**
+- Challenges
+- RSA
+- Hashing
 
 ## Forensics & OSINT :<a name="osint" />
-#### [Day 1]:
+#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day3)`Forensics Day1 slides`:
+
+- Digital Forensics :
+  - Whatis Forensics
+  - Types
+  - Initial analysis
+  - Commands :
+    - file
+    - strings
+- File Signature
+    - Hexdump / hexedit
+- Archive files
+- Image Analysis
+- Steganography
+    - Whatis Steganography
+    - Commands
+- Audio Analysis
+
 #### [Day 2]:
+**SOON ...**
 ## Web Exploitation :<a name="web" />
 #### [Day 1]:
 #### [Day 2]:
