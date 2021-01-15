@@ -75,17 +75,22 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
   - Networking & Network Forensics
 - OSINT 
 
-## Web Exploitation :<a name="web" />
-#### [Day 1]:
-#### [Day 2]:
-
 ## Reverse Engineering :<a name="rev" />
-#### [Day 1]:
+#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev)`Reverse Engineering Day1 slides`:
+
+- Reverse Engineering
+- Assembly
+
 #### [Day 2]:
+SOON ..
+
 ## Binary Exploitation :<a name="pwn" />
 #### [Day 1]:
 #### [Day 2]:
 
+## Web Exploitation :<a name="web" />
+#### [Day 1]:
+#### [Day 2]:
 
 ## Practice & Resources :<a name="practice" />
 
