@@ -69,8 +69,12 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
     - Commands
 - Audio Analysis
 
-#### [Day 2]:
-**SOON ...**
+#### [Day 2](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day4)`Forensics Day2 slides`:
+
+- Digital Forensics :
+  - Networking & Network Forensics
+- OSINT 
+
 ## Web Exploitation :<a name="web" />
 #### [Day 1]:
 #### [Day 2]:
