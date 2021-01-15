@@ -17,3 +17,7 @@
     - Whatis Steganography
     - Commands
 - Audio Analysis
+### Day 4 :
+- Digital Forensics :
+  - Networking & Network Forensics
+- OSINT
