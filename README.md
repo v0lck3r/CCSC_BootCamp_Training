@@ -97,6 +97,8 @@ SOON ..
 ### Cryptography
 -   https://cryptohack.org/
 
+### Reverse
+-   https://ctf.cybersoc.wales/   
 
 ## Tools <a name="tools" />
 
