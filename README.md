@@ -97,7 +97,7 @@ SOON ..
 ### Cryptography
 -   https://cryptohack.org/
 
-### Reverse
+### OSINT
 -   https://ctf.cybersoc.wales/   
 
 ## Tools <a name="tools" />
