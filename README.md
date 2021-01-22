@@ -76,17 +76,23 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 - OSINT 
 
 ## Reverse Engineering :<a name="rev" />
-#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev)`Reverse Engineering Day1 slides`:
+#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day1)`Reverse Engineering Day1 slides`:
 
 - Reverse Engineering
 - Assembly
 
-#### [Day 2]:
-SOON ..
+#### [Day 2](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day2)`Reverse Engineering Day2 slides`:
+
+- Demo (Control Flow Of A Program)
+- Disassembling & Decompiling
 
 ## Binary Exploitation :<a name="pwn" />
-#### [Day 1]:
-#### [Day 2]:
+
+#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/pwn)`Binary Exploitation Day1 slides`:
+
+- PWN
+- Buffer & BufferOverFlow
+- Demos and Payloads
 
 ## Web Exploitation :<a name="web" />
 #### [Day 1]:
