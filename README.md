@@ -9,9 +9,9 @@ CIT Cyber Security Cell Bootcamp Training modules
 3. [Linux For CTFs](#linux)
 4. [Cryptography](#crypto)
 5. [Forensics & OSINT](#osint)
-6. [Web Exploitation](#web)
-7. [Reverse Engineering](#rev)
-8. [Binary Exploitation](#pwn)
+6. [Reverse Engineering](#rev)
+7. [Binary Exploitation](#pwn)
+8. [Web Exploitation](#web)
 9. [Practice & Resources](#practice)
 10. [Tools](#tools)
 
