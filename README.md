@@ -14,6 +14,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 8. [Web Exploitation](#web)
 9. [Practice & Resources](#practice)
 10. [Tools](#tools)
+11. [Wanna Go Further?](#further)
 
 ## General :<a name="general" />
 This is our **CCSC** git repository in which we'll post all the **Boot Camp** material (Presentations, Tools, Scripts, ...). <br />
@@ -106,17 +107,36 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 ### OSINT
 -   https://ctf.cybersoc.wales/   
 
+### Forensics
+-   https://trailofbits.github.io/ctf/forensics/
+
+### PWN
+-   https://pwnable.tw/
+-   https://ctf101.org/binary-exploitation
+
+### Reverse Engineering
+-   https://ctf101.org/reverse-engineering
+
+### All The Above
+-   https://cybertalents.com/
+-   https://ctftime.org/
+-   https://picoctf.org/
+-   https://ctflearn.com/
+-   https://www.root-me.org/
+
 ## Tools <a name="tools" />
 
 ### Cryptography
-- https://www.dcode.fr/
-- https://www.dcode.fr/frequency-analysis
-- https://cryptii.com/
-- https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
-- https://quipqiup.com/
-- https://www.boxentriq.com/code-breaking/cipher-identifier
+-   https://www.dcode.fr/
+-   https://cryptii.com/
+-   https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+-   https://quipqiup.com/
+-   https://www.boxentriq.com/code-breaking/cipher-identifier
+-   https://gchq.github.io/CyberChef/
 
-
+## Wanna Go Further? <a name="further" />
+-   https://www.hackthebox.eu/
+-   https://tryhackme.com
 
 
 📫 Credits: 
