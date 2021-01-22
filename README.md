@@ -10,7 +10,7 @@ CIT Cyber Security Cell Bootcamp Training modules
 4. [Cryptography](#crypto)
 5. [Forensics & OSINT](#osint)
 6. [Reverse Engineering](#rev)
-7. [Binary Exploitation](#pwn)
+7. [Binary Exploitation](#bin)
 8. [Web Exploitation](#web)
 9. [Practice & Resources](#practice)
 10. [Tools](#tools)
@@ -87,7 +87,7 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 - Demo (Control Flow Of A Program)
 - Disassembling & Decompiling
 
-## Binary Exploitation :<a name="pwn" />
+## Binary Exploitation :<a name="bin" />
 
 #### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/pwn)`Binary Exploitation Day1 slides`:
 
