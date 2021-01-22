@@ -1,0 +1,23 @@
+cit:
+	<+0>:	push   ebp
+	<+1>:	mov    ebp,esp
+	<+3>:	cmp    DWORD PTR [ebp+0x8],0x421
+	<+10>:	jg     0x512 <cit+37>
+	<+12>:	cmp    DWORD PTR [ebp+0x8],0x5ce
+	<+19>:	jne    0x50a <cit+29>
+	<+21>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+24>:	add    eax,0x13
+	<+27>:	jmp    0x529 <cit+60>
+	<+29>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+32>:	sub    eax,0x13
+	<+35>:	jmp    0x529 <cit+60>
+	<+37>:	cmp    DWORD PTR [ebp+0x8],0x7f7
+	<+44>:	jne    0x523 <cit+54>
+	<+46>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+49>:	sub    eax,0x13
+	<+52>:	jmp    0x529 <cit+60>
+	<+54>:	mov    eax,DWORD PTR [ebp+0x8]
+	<+57>:	add    eax,0x13
+	<+60>:	pop    ebp
+	<+61>:	ret    
+
