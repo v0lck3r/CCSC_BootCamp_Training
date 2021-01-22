@@ -1,7 +1,7 @@
 # CCSC_BootCamp_Training
 CIT Cyber Security Cell Bootcamp Training modules
 
-![CCSC](https://i.imgur.com/zMOfQoe.png)
+![CCSC](https://imgur.com/8upYxC7)
 
 # Table of Contents
 1. [General & Disclamer](#general)
