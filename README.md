@@ -123,6 +123,10 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 ### Reverse Engineering
 -   https://ctf101.org/reverse-engineering
 
+### Web Exploitation
+-   https://devopedia.org/web-exploitation
+-   https://www.rapid7.com/fundamentals/web-application-vulnerabilities/
+
 ### All The Above
 -   https://cybertalents.com/
 -   https://ctftime.org/
