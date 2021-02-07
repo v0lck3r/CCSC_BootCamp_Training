@@ -96,8 +96,14 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 - Demos and Payloads
 
 ## Web Exploitation :<a name="web" />
-#### [Day 1]:
-#### [Day 2]:
+#### [Day 1]:(https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/web)`Web Exploitation Day1 slides`:
+
+- Introduction & Fundamentals
+- SQL Injection
+- Command Injection
+- CSRF
+- SSRF
+- XSS (Stored, Reflected and DOM)
 
 ## Practice & Resources :<a name="practice" />
 
