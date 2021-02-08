@@ -52,7 +52,7 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 - Hashing
 
 ## Forensics & OSINT :<a name="osint" />
-#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day3)`Forensics Day1 slides`:
+#### [Day 3](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day3)`Forensics Day1 slides`:
 
 - Digital Forensics :
   - Whatis Forensics
@@ -70,33 +70,33 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
     - Commands
 - Audio Analysis
 
-#### [Day 2](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day4)`Forensics Day2 slides`:
+#### [Day 4](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/Forensics_OSINT/Day4)`Forensics Day2 slides`:
 
 - Digital Forensics :
   - Networking & Network Forensics
 - OSINT 
 
 ## Reverse Engineering :<a name="rev" />
-#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day1)`Reverse Engineering Day1 slides`:
+#### [Day 5](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day1)`Reverse Engineering Day1 slides`:
 
 - Reverse Engineering
 - Assembly
 
-#### [Day 2](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day2)`Reverse Engineering Day2 slides`:
+#### [Day 6](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/rev/Day2)`Reverse Engineering Day2 slides`:
 
 - Demo (Control Flow Of A Program)
 - Disassembling & Decompiling
 
 ## Binary Exploitation :<a name="bin" />
 
-#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/pwn)`Binary Exploitation Day1 slides`:
+#### [Day 7](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/pwn)`Binary Exploitation Day1 slides`:
 
 - PWN
 - Buffer & BufferOverFlow
 - Demos and Payloads
 
 ## Web Exploitation :<a name="web" />
-#### [Day 1](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/web)`Web Exploitation Day1 slides`:
+#### [Day 8](https://github.com/v0lck3r/CCSC_BootCamp_Training/tree/main/web)`Web Exploitation Day1 slides`:
 
 - Introduction & Fundamentals
 - SQL Injection
@@ -143,6 +143,43 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 -   https://quipqiup.com/
 -   https://www.boxentriq.com/code-breaking/cipher-identifier
 -   https://gchq.github.io/CyberChef/
+
+### Forensics 
+-   http://www.aircrack-ng.org/
+-   http://sourceforge.net/projects/audacity/
+-   https://github.com/volatilityfoundation/volatility
+-   https://github.com/Ganapati/RsaCtfTool
+-   https://github.com/iagox86/hash_extender
+-   http://www.libpng.org/pub/png/apps/pngcheck.html
+
+### Networking 
+-   https://nmap.org/
+-   https://www.wireshark.org
+-   https://github.com/robertdavidgraham/masscan
+
+### Steganography 
+-   https://linux.die.net/man/1/exiftool
+-   http://www.imagemagick.org/script/index.php
+-   https://github.com/evyatarmeged/stegextract
+-   http://steghide.sourceforge.net/
+-   http://www.caesum.com/handbook/Stegsolve.jar
+-   https://github.com/zed-0xff/zsteg
+
+### Reverse engineering and pwning
+-   https://binary.ninja/
+-   https://www.gnu.org/software/gdb/
+-   https://ghidra-sre.org/
+-   https://www.hex-rays.com/products/ida/
+-   http://www.javadecompilers.com
+-   https://github.com/longld/peda
+-   https://github.com/Gallopsled/pwntools
+-   https://github.com/JonathanSalwan/ROPgadget
+
+### Web Exploitation 
+-   https://portswigger.net/burp
+-   https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project
+-   https://github.com/sqlmapproject/sqlmap
+ 
 
 ## Wanna Go Further? <a name="further" />
 -   https://www.hackthebox.eu/
