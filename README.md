@@ -103,7 +103,7 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 - Command Injection
 - CSRF
 - SSRF
-- XSS (Stored, Reflected and DOM)
+- XSS (Stored, Reflected and DOM) 
 
 ## Practice & Resources :<a name="practice" />
 
@@ -143,12 +143,12 @@ We believe that **Glory** doesn't come by doing **ordinary** tasks, so if you wa
 -   https://quipqiup.com/
 -   https://www.boxentriq.com/code-breaking/cipher-identifier
 -   https://gchq.github.io/CyberChef/
+-   https://github.com/Ganapati/RsaCtfTool 
 
 ### Forensics 
 -   http://www.aircrack-ng.org/
 -   http://sourceforge.net/projects/audacity/
 -   https://github.com/volatilityfoundation/volatility
--   https://github.com/Ganapati/RsaCtfTool
 -   https://github.com/iagox86/hash_extender
 -   http://www.libpng.org/pub/png/apps/pngcheck.html
 
